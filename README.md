@@ -39,7 +39,7 @@ Inspired by [Andrej Karpathy](https://github.com/karpathy/)'s
 
 ```bash
 # clone repo
-git clone git@github.com:xincxiong/char-rnn-text-generation.git && cd char-rnn-text-generation
+git clone https://github.com/xincxiong/Text_Generation_with_Char_RNN.git
 
 # create conda environment
 conda env create -f=environment.yml
